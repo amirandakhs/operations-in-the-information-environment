@@ -1,0 +1,42 @@
+in the round 0 with potenty message 0 -> state score 32 = not voting 12 + follower num 20 
+in the round 0 with potenty message 1 -> state score 32 = not voting 13 + follower num 19 
+in the round 0 with potenty message 2 -> state score 32 = not voting 12 + follower num 20 
+in the round 0 with potenty message 3 -> state score 32 = not voting 12 + follower num 20 
+in the round 0 with potenty message 4 -> state score 32 = not voting 12 + follower num 20 
+ROUND 0 potenty message 2 with max reward of 32 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 1 with potenty message 0 -> state score 34 = not voting 15 + follower num 19 
+in the round 1 with potenty message 1 -> state score 34 = not voting 17 + follower num 17 
+in the round 1 with potenty message 2 -> state score 35 = not voting 16 + follower num 19 
+in the round 1 with potenty message 3 -> state score 33 = not voting 16 + follower num 17 
+in the round 1 with potenty message 4 -> state score 35 = not voting 16 + follower num 19 
+ROUND 1 potenty message 2 with max reward of 35 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 2 with potenty message 0 -> state score 35 = not voting 17 + follower num 18 
+in the round 2 with potenty message 1 -> state score 37 = not voting 19 + follower num 18 
+in the round 2 with potenty message 2 -> state score 36 = not voting 20 + follower num 16 
+in the round 2 with potenty message 3 -> state score 37 = not voting 19 + follower num 18 
+in the round 2 with potenty message 4 -> state score 36 = not voting 20 + follower num 16 
+ROUND 2 potenty message 3 with max reward of 37 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 3 with potenty message 0 -> state score 38 = not voting 20 + follower num 18 
+in the round 3 with potenty message 1 -> state score 36 = not voting 20 + follower num 16 
+in the round 3 with potenty message 2 -> state score 37 = not voting 20 + follower num 17 
+in the round 3 with potenty message 3 -> state score 38 = not voting 20 + follower num 18 
+in the round 3 with potenty message 4 -> state score 37 = not voting 20 + follower num 17 
+ROUND 3 potenty message 3 with max reward of 38 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 4 with potenty message 0 -> state score 37 = not voting 20 + follower num 17 
+in the round 4 with potenty message 1 -> state score 37 = not voting 20 + follower num 17 
+in the round 4 with potenty message 2 -> state score 37 = not voting 20 + follower num 17 
+in the round 4 with potenty message 3 -> state score 37 = not voting 20 + follower num 17 
+in the round 4 with potenty message 4 -> state score 37 = not voting 20 + follower num 17 
+ROUND 4 potenty message 2 with max reward of 37 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 5 with potenty message 0 -> state score 37 = not voting 20 + follower num 17 
+in the round 5 with potenty message 1 -> state score 37 = not voting 20 + follower num 17 
+in the round 5 with potenty message 2 -> state score 36 = not voting 20 + follower num 16 
+in the round 5 with potenty message 3 -> state score 37 = not voting 20 + follower num 17 
+in the round 5 with potenty message 4 -> state score 37 = not voting 20 + follower num 17 
+ROUND 5 potenty message 3 with max reward of 37 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 

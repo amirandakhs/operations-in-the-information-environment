@@ -1,0 +1,196 @@
+in the round 0 with potenty message 0 -> state score 29 = voting 9 + energy left 20 
+in the round 0 with potenty message 1 -> state score 30 = voting 9 + energy left 17 
+in the round 0 with potenty message 2 -> state score 34 = voting 9 + energy left 20 
+in the round 0 with potenty message 3 -> state score 31 = voting 9 + energy left 17 
+in the round 0 with potenty message 4 -> state score 31 = voting 9 + energy left 17 
+ROUND 0 potenty message 2 with max reward of 34 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 1 with potenty message 0 -> state score 29 = voting 14 + energy left 15 
+in the round 1 with potenty message 1 -> state score 29 = voting 14 + energy left 14 
+in the round 1 with potenty message 2 -> state score 27 = voting 14 + energy left 12 
+in the round 1 with potenty message 3 -> state score 27 = voting 14 + energy left 12 
+in the round 1 with potenty message 4 -> state score 26 = voting 14 + energy left 11 
+ROUND 1 potenty message 0 with max reward of 29 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 2 with potenty message 0 -> state score 27 = voting 12 + energy left 15 
+in the round 2 with potenty message 1 -> state score 26 = voting 12 + energy left 13 
+in the round 2 with potenty message 2 -> state score 24 = voting 12 + energy left 11 
+in the round 2 with potenty message 3 -> state score 25 = voting 12 + energy left 11 
+in the round 2 with potenty message 4 -> state score 26 = voting 12 + energy left 11 
+ROUND 2 potenty message 0 with max reward of 27 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 3 with potenty message 0 -> state score 28 = voting 13 + energy left 15 
+in the round 3 with potenty message 1 -> state score 28 = voting 13 + energy left 15 
+in the round 3 with potenty message 2 -> state score 27 = voting 13 + energy left 14 
+in the round 3 with potenty message 3 -> state score 27 = voting 13 + energy left 14 
+in the round 3 with potenty message 4 -> state score 25 = voting 13 + energy left 12 
+ROUND 3 potenty message 0 with max reward of 28 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 4 with potenty message 0 -> state score 26 = voting 11 + energy left 15 
+in the round 4 with potenty message 1 -> state score 27 = voting 11 + energy left 14 
+in the round 4 with potenty message 2 -> state score 27 = voting 11 + energy left 13 
+in the round 4 with potenty message 3 -> state score 25 = voting 11 + energy left 11 
+in the round 4 with potenty message 4 -> state score 25 = voting 11 + energy left 11 
+ROUND 4 potenty message 1 with max reward of 27 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 5 with potenty message 0 -> state score 25 = voting 13 + energy left 12 
+in the round 5 with potenty message 1 -> state score 25 = voting 13 + energy left 11 
+in the round 5 with potenty message 2 -> state score 25 = voting 13 + energy left 11 
+in the round 5 with potenty message 3 -> state score 26 = voting 13 + energy left 12 
+in the round 5 with potenty message 4 -> state score 22 = voting 13 + energy left 8 
+ROUND 5 potenty message 3 with max reward of 26 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 6 with potenty message 0 -> state score 24 = voting 15 + energy left 9 
+in the round 6 with potenty message 1 -> state score 23 = voting 15 + energy left 8 
+in the round 6 with potenty message 2 -> state score 21 = voting 15 + energy left 6 
+in the round 6 with potenty message 3 -> state score 22 = voting 15 + energy left 7 
+in the round 6 with potenty message 4 -> state score 23 = voting 15 + energy left 8 
+ROUND 6 potenty message 0 with max reward of 24 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 7 with potenty message 0 -> state score 24 = voting 15 + energy left 9 
+in the round 7 with potenty message 1 -> state score 21 = voting 15 + energy left 6 
+in the round 7 with potenty message 2 -> state score 23 = voting 15 + energy left 8 
+in the round 7 with potenty message 3 -> state score 21 = voting 15 + energy left 6 
+in the round 7 with potenty message 4 -> state score 23 = voting 15 + energy left 8 
+ROUND 7 potenty message 0 with max reward of 24 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 8 with potenty message 0 -> state score 25 = voting 16 + energy left 9 
+in the round 8 with potenty message 1 -> state score 25 = voting 16 + energy left 9 
+in the round 8 with potenty message 2 -> state score 23 = voting 16 + energy left 7 
+in the round 8 with potenty message 3 -> state score 24 = voting 16 + energy left 8 
+in the round 8 with potenty message 4 -> state score 24 = voting 16 + energy left 8 
+ROUND 8 potenty message 1 with max reward of 25 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 9 with potenty message 0 -> state score 24 = voting 16 + energy left 8 
+in the round 9 with potenty message 1 -> state score 23 = voting 16 + energy left 7 
+in the round 9 with potenty message 2 -> state score 22 = voting 16 + energy left 6 
+in the round 9 with potenty message 3 -> state score 24 = voting 16 + energy left 8 
+in the round 9 with potenty message 4 -> state score 21 = voting 16 + energy left 5 
+ROUND 9 potenty message 0 with max reward of 24 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 10 with potenty message 0 -> state score 24 = voting 16 + energy left 8 
+in the round 10 with potenty message 1 -> state score 23 = voting 16 + energy left 7 
+in the round 10 with potenty message 2 -> state score 22 = voting 16 + energy left 6 
+in the round 10 with potenty message 3 -> state score 21 = voting 16 + energy left 5 
+in the round 10 with potenty message 4 -> state score 23 = voting 16 + energy left 7 
+ROUND 10 potenty message 0 with max reward of 24 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 11 with potenty message 0 -> state score 24 = voting 16 + energy left 8 
+in the round 11 with potenty message 1 -> state score 24 = voting 16 + energy left 8 
+in the round 11 with potenty message 2 -> state score 24 = voting 16 + energy left 8 
+in the round 11 with potenty message 3 -> state score 21 = voting 16 + energy left 5 
+in the round 11 with potenty message 4 -> state score 23 = voting 16 + energy left 7 
+ROUND 11 potenty message 2 with max reward of 24 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 0 with potenty message 0 -> state score 27 = voting 7 + energy left 20 
+in the round 0 with potenty message 1 -> state score 25 = voting 7 + energy left 17 
+in the round 0 with potenty message 2 -> state score 28 = voting 7 + energy left 20 
+in the round 0 with potenty message 3 -> state score 25 = voting 7 + energy left 16 
+in the round 0 with potenty message 4 -> state score 23 = voting 7 + energy left 13 
+ROUND 0 potenty message 2 with max reward of 28 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 1 with potenty message 0 -> state score 27 = voting 7 + energy left 20 
+in the round 1 with potenty message 1 -> state score 26 = voting 7 + energy left 18 
+in the round 1 with potenty message 2 -> state score 25 = voting 7 + energy left 17 
+in the round 1 with potenty message 3 -> state score 28 = voting 7 + energy left 20 
+in the round 1 with potenty message 4 -> state score 27 = voting 7 + energy left 19 
+ROUND 1 potenty message 3 with max reward of 28 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 0 with potenty message 0 -> state score 26 = voting 6 + energy left 20 
+in the round 0 with potenty message 1 -> state score 25 = voting 6 + energy left 18 
+in the round 0 with potenty message 2 -> state score 24 = voting 6 + energy left 17 
+in the round 0 with potenty message 3 -> state score 24 = voting 6 + energy left 17 
+in the round 0 with potenty message 4 -> state score 22 = voting 6 + energy left 15 
+ROUND 0 potenty message 0 with max reward of 26 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 1 with potenty message 0 -> state score 22 = voting 2 + energy left 20 
+in the round 1 with potenty message 1 -> state score 23 = voting 2 + energy left 19 
+in the round 1 with potenty message 2 -> state score 23 = voting 2 + energy left 19 
+in the round 1 with potenty message 3 -> state score 22 = voting 2 + energy left 18 
+in the round 1 with potenty message 4 -> state score 20 = voting 2 + energy left 16 
+ROUND 1 potenty message 2 with max reward of 23 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 2 with potenty message 0 -> state score 19 = voting 2 + energy left 17 
+in the round 2 with potenty message 1 -> state score 20 = voting 2 + energy left 17 
+in the round 2 with potenty message 2 -> state score 19 = voting 2 + energy left 16 
+in the round 2 with potenty message 3 -> state score 18 = voting 2 + energy left 15 
+in the round 2 with potenty message 4 -> state score 17 = voting 2 + energy left 14 
+ROUND 2 potenty message 1 with max reward of 20 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 3 with potenty message 0 -> state score 18 = voting 2 + energy left 16 
+in the round 3 with potenty message 1 -> state score 15 = voting 2 + energy left 12 
+in the round 3 with potenty message 2 -> state score 17 = voting 2 + energy left 14 
+in the round 3 with potenty message 3 -> state score 18 = voting 2 + energy left 15 
+in the round 3 with potenty message 4 -> state score 17 = voting 2 + energy left 14 
+ROUND 3 potenty message 0 with max reward of 18 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 4 with potenty message 0 -> state score 18 = voting 2 + energy left 16 
+in the round 4 with potenty message 1 -> state score 18 = voting 2 + energy left 16 
+in the round 4 with potenty message 2 -> state score 17 = voting 2 + energy left 15 
+in the round 4 with potenty message 3 -> state score 15 = voting 2 + energy left 13 
+in the round 4 with potenty message 4 -> state score 16 = voting 2 + energy left 14 
+ROUND 4 potenty message 0 with max reward of 18 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 5 with potenty message 0 -> state score 18 = voting 2 + energy left 16 
+in the round 5 with potenty message 1 -> state score 17 = voting 2 + energy left 15 
+in the round 5 with potenty message 2 -> state score 16 = voting 2 + energy left 14 
+in the round 5 with potenty message 3 -> state score 17 = voting 2 + energy left 15 
+in the round 5 with potenty message 4 -> state score 16 = voting 2 + energy left 14 
+ROUND 5 potenty message 0 with max reward of 18 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 0 with potenty message 0 -> state score 27 = voting 7 + energy left 20 
+in the round 0 with potenty message 1 -> state score 24 = voting 7 + energy left 17 
+in the round 0 with potenty message 2 -> state score 25 = voting 7 + energy left 17 
+in the round 0 with potenty message 3 -> state score 27 = voting 7 + energy left 19 
+in the round 0 with potenty message 4 -> state score 27 = voting 7 + energy left 19 
+ROUND 0 potenty message 3 with max reward of 27 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 1 with potenty message 0 -> state score 28 = voting 8 + energy left 20 
+in the round 1 with potenty message 1 -> state score 28 = voting 8 + energy left 20 
+in the round 1 with potenty message 2 -> state score 26 = voting 8 + energy left 18 
+in the round 1 with potenty message 3 -> state score 27 = voting 8 + energy left 19 
+in the round 1 with potenty message 4 -> state score 28 = voting 8 + energy left 20 
+ROUND 1 potenty message 1 with max reward of 28 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 2 with potenty message 0 -> state score 28 = voting 8 + energy left 20 
+in the round 2 with potenty message 1 -> state score 28 = voting 8 + energy left 20 
+in the round 2 with potenty message 2 -> state score 26 = voting 8 + energy left 18 
+in the round 2 with potenty message 3 -> state score 26 = voting 8 + energy left 18 
+in the round 2 with potenty message 4 -> state score 28 = voting 8 + energy left 20 
+ROUND 2 potenty message 1 with max reward of 28 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 3 with potenty message 0 -> state score 26 = voting 8 + energy left 18 
+in the round 3 with potenty message 1 -> state score 27 = voting 8 + energy left 18 
+in the round 3 with potenty message 2 -> state score 25 = voting 8 + energy left 16 
+in the round 3 with potenty message 3 -> state score 26 = voting 8 + energy left 17 
+in the round 3 with potenty message 4 -> state score 26 = voting 8 + energy left 17 
+ROUND 3 potenty message 1 with max reward of 27 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 4 with potenty message 0 -> state score 23 = voting 6 + energy left 17 
+in the round 4 with potenty message 1 -> state score 24 = voting 6 + energy left 17 
+in the round 4 with potenty message 2 -> state score 23 = voting 6 + energy left 16 
+in the round 4 with potenty message 3 -> state score 22 = voting 6 + energy left 15 
+in the round 4 with potenty message 4 -> state score 23 = voting 6 + energy left 15 
+ROUND 4 potenty message 1 with max reward of 24 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 5 with potenty message 0 -> state score 17 = voting 2 + energy left 15 
+in the round 5 with potenty message 1 -> state score 18 = voting 2 + energy left 14 
+in the round 5 with potenty message 2 -> state score 16 = voting 2 + energy left 12 
+in the round 5 with potenty message 3 -> state score 18 = voting 2 + energy left 14 
+in the round 5 with potenty message 4 -> state score 18 = voting 2 + energy left 14 
+ROUND 5 potenty message 4 with max reward of 18 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 6 with potenty message 0 -> state score 19 = voting 4 + energy left 15 
+in the round 6 with potenty message 1 -> state score 17 = voting 4 + energy left 13 
+in the round 6 with potenty message 2 -> state score 18 = voting 4 + energy left 14 
+in the round 6 with potenty message 3 -> state score 18 = voting 4 + energy left 14 
+in the round 6 with potenty message 4 -> state score 17 = voting 4 + energy left 13 
+ROUND 6 potenty message 0 with max reward of 19 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
+in the round 7 with potenty message 0 -> state score 17 = voting 2 + energy left 15 
+in the round 7 with potenty message 1 -> state score 16 = voting 2 + energy left 14 
+in the round 7 with potenty message 2 -> state score 17 = voting 2 + energy left 14 
+in the round 7 with potenty message 3 -> state score 15 = voting 2 + energy left 12 
+in the round 7 with potenty message 4 -> state score 16 = voting 2 + energy left 13 
+ROUND 7 potenty message 0 with max reward of 17 has been choosen 
+ LOCAL CHOICE HAS BEEN MADE 
